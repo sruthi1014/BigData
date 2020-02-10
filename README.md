@@ -1,1 +1,1 @@
-# BigData
+# Recognition of hand written digits
