@@ -7,9 +7,12 @@
   <li>Neural Network Classifier</li>
   <li>Results</li>
   <li>Data Source</li>
-
-1) Introduction:
+ </ul>
+<p>
+1) Introduction
+  </br>
 2) Logistic Regression
+</br>
 3) Neural Net Classifier</br>
    </br>
 4) Results</br>
@@ -17,3 +20,4 @@
 5) Data Source</br>
  The dataset has been taken from a kaggle competition. The below link can be used to get the test and train datasets which were used in this project.
  https://www.kaggle.com/c/digit-recognizer/data
+ </p>
